@@ -1,0 +1,18 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu gry gammma.
+
+Zaimplementowano silnik gry Gamma.
+
+Zaimplemetowano moduł umożliwiający grę w trybie "batch mode" oraz "interactive".
+
+Zmieniono działanie funkcjii gamma_gold_possible oraz uatrakcyjniono tryb "interactive".
+
+*/
